@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Programa b_IT</string>
+    <string name="form_nombre">Nombre completo</string>
+    <string name="form_fecha">Fecha de nacimiento</string>
+    <string name="form_telefono">Telefono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripcion">Descripcion de contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar datos</string>
+</resources>
