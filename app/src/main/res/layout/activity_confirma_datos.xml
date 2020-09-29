@@ -46,5 +46,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/tvDescripcion"
         android:onClick="Editar"
-        android:text="@string/btn_editar" />
+        android:text="@string/btn_editar"
+        android:theme="@style/Boton"
+        />
 </RelativeLayout>
